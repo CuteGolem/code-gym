@@ -17,7 +17,7 @@ public class PrimeNumber {
 
     public static void main(String[] args) {
 
-        if (checkPrime(6))
+        if (checkPrime(7))
             System.out.println("Prime");
         else
             System.out.println("Not Prime");
